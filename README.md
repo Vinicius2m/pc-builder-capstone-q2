@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <a href="http://pc-builder-capstone-q2.vercel.app/" target="_blank">
+      <img alt="PCBuilder" title="#PCBuilder" src="https://pc-builder-capstone-q2.vercel.app/static/media/logo.91001f55.png" width="250px" />
+    </a>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    PC Builder
+</h1>
 
-## Available Scripts
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Vinicius2m/pc-builder-capstone-q2">
 
-In the project directory, you can run:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Vinicius2m/pc-builder-capstone-q2">
 
-### `yarn start`
+  <a href="https://github.com/Vinicius2m/pc-builder-capstone-q2/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Vinicius2m/pc-builder-capstone-q2">
+  </a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-executando">Executando</a>&nbsp;&nbsp;&nbsp;
+</p>
+<br>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 💻 Projeto
 
-### `yarn test`
+Esse foi o segundo projeto realizado no segundo quarter do bootcamp da Kenzie Academy Brasil focado no frontend. A ideia do aplicativo é ser um e-commerce de peças e componentes para computadores que oferece também uma página de assistência ao usuário para montar um computador e verificar a compatibilidade entre cada componente e dar informações importantes sobre cada peça dentro do computador escolhido.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🎨 Layout
 
-### `yarn build`
+<p align="center" ><b>Página de Produtos</b></p>
+<p align="center">
+    <img alt="Products page" title="#products" src="https://i.ibb.co/Xy6cXNB/Products.png" />
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="center" ><b>Página de Build</b></p>
+<p align="center">
+    <img alt="PC Builder page" title="#products" src="https://i.ibb.co/GVmLwFw/Build.png" />
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Tecnologias
 
-### `yarn eject`
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [ReactJS](https://pt-br.reactjs.org/)
+- [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)
+- [Styled Components](https://styled-components.com/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+\* Para mais detalhes, veja o <kbd>[package.json](./package.json)</kbd>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## :notebook: Executando
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Pré-requisitos
 
-## Learn More
+É necessário que o Node.js esteja instalado na sua máquina.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+# Clone este repositório na pasta atual
+$ git clone https://github.com/Vinicius2m/pc-builder-capstone-q2.git .
+# Instale as dependências
+$ npm install
+# Execute a aplicação
+$ npm run start
+```
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made with ♥ by [Vinicus de Freitas](https://www.linkedin.com/in/vinicius-de-freitas/)
