@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="http://pc-builder-capstone-q2.vercel.app/" target="_blank">
+    <a href="https://pc-builder-five.vercel.app/" target="_blank">
       <img alt="PCBuilder" title="#PCBuilder" src="https://pc-builder-capstone-q2.vercel.app/static/media/logo.91001f55.png" width="250px" />
     </a>
 </h1>
@@ -10,7 +10,7 @@
 
 <h3 align="center" >Link da Aplicação: </h3>
 <p align="center" >
-    <a href="http://pc-builder-capstone-q2.vercel.app/" target="_blank">
+    <a href="https://pc-builder-five.vercel.app/" target="_blank">
         <img width="100px" alt="Deploy" src="https://vercel.com/button">
     </a>
 </p>
